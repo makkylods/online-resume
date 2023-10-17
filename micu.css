@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.name {
+    font-size: 24px;
+}
+
+.contact {
+    font-size: 16px;
+}
+
+.section {
+    margin-top: 20px;
+}
+
+.section h2 {
+    font-size: 20px;
+}
+
+.section p {
+    font-size: 16px;
+}
+
+.section ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.section .date {
+    font-weight: bold;
+}
+
+.section .title {
+    font-style: italic;
+}
